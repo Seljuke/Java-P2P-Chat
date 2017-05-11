@@ -1,0 +1,28 @@
+16 Nisan 2017 04:03:16 - berkay adlı kullanıcısı ile/192.168.1.50 adresinden 5055 portundan konuşma başlatıldı.
+16 Nisan 2017 04:03:18 - selo: selam
+16 Nisan 2017 04:03:20 - selo: naber
+16 Nisan 2017 04:04:23 - selo: &
+16 Nisan 2017 04:04:23 - berkay kullanıcısı ile bağlantı kesildi.
+16 Nisan 2017 04:15:11 - berkay adlı kullanıcısı ile/192.168.1.50 adresinden 5055 portundan konuşma başlatıldı.
+16 Nisan 2017 04:15:15 - selo: selaaaaam
+16 Nisan 2017 04:15:17 - selo: naber
+16 Nisan 2017 04:20:01 - berkay kullanıcısı ile bağlantı kesildi.
+16 Nisan 2017 04:44:38 - berkay adlı kullanıcısı ile/192.168.1.50 adresinden 5055 portundan konuşma başlatıldı.
+16 Nisan 2017 04:44:45 - selo: selam naber
+16 Nisan 2017 04:44:50 - berkay: s
+16 Nisan 2017 04:45:05 - berkay: iyidir senden naber
+16 Nisan 2017 04:45:57 - berkay: neyse ya
+16 Nisan 2017 04:46:08 - berkay: çıkıyorum ben çav
+16 Nisan 2017 04:46:09 - berkay: &
+16 Nisan 2017 04:46:13 - berkay kullanıcısı ile bağlantı kesildi.17 Nisan 2017 02:51:41 - berkay adlı kullanıcısı ile/192.168.1.50 adresinden 5055 portundan konuşma başlatıldı.
+17 Nisan 2017 02:51:50 - berkay: 
+17 Nisan 2017 02:51:56 - selo: selam naber
+17 Nisan 2017 02:51:59 - selo: nasılsın
+17 Nisan 2017 02:52:04 - berkay: iyidir sen nasılsın
+17 Nisan 2017 02:52:52 - selo: &
+17 Nisan 2017 02:52:52 - berkay kullanıcısı ile bağlantı kesildi.
+17 Nisan 2017 02:53:41 - berkay adlı kullanıcısı ile/192.168.1.50 adresinden 5055 portundan konuşma başlatıldı.
+17 Nisan 2017 02:53:46 - selo: örnek mesaj
+17 Nisan 2017 02:53:54 - selo: selo kullanıcısından örnek mesaj
+17 Nisan 2017 02:54:03 - berkay: 
+17 Nisan 2017 02:54:14 - berkay: berkay kullanıcısıdan örnek mesaj
